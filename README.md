@@ -1,0 +1,1 @@
+# plugin-cryptocurrency-inven-collector
