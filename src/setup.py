@@ -32,6 +32,7 @@ setup(
     packages=find_packages(),
     install_requires=[
         "spaceone-api",
+        "pycoingecko",
     ],
     package_data={
         "plugin": ["metadata/*.yaml", "metrics/**/**/*.yaml"],
